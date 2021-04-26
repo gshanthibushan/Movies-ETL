@@ -41,6 +41,7 @@ wikipedia-movies.json
 
 4. Create the Movie Database
   * ETL_create_database.ipynb
+  * ![image](https://user-images.githubusercontent.com/79486450/116018362-e57fa480-a60f-11eb-9d4a-0b4b671f40b2.png)
   * ![image](https://user-images.githubusercontent.com/79486450/116018236-9d608200-a60f-11eb-89cc-6aa12428de7c.png)
 
 
